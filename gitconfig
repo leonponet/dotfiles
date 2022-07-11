@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ponetleon1@icloud.com
+	name = Leon Ponet
